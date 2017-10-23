@@ -87,5 +87,6 @@ Burn firmware from [mtk-linkit](https://docs.labs.mediatek.com/resource/linkit-s
 After enter the system, set dsn-num then excute msload_go.sh to run the progress
 
 Then [connect to internet](https://docs.labs.mediatek.com/resource/linkit-smart-7688/en/get-started/get-started-with-the-linkit-smart-7688-development-board/connect-to-the-internet)
+
 <a href="https://github.com/RAKWireless/wiscore/wiki/Login-Alexa-Through-App#Sign">login alexa via app</a>
 Finally [login alexa via app](https://github.com/RAKWireless/wiscore/wiki/Login-Alexa-Through-App#Sign) and enjoy it
