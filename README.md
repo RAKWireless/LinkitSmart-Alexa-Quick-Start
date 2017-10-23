@@ -76,4 +76,4 @@ After enter the system, set dsn-num then excute msload_go.sh to run the progress
 
 Then [connect to internet](https://docs.labs.mediatek.com/resource/linkit-smart-7688/en/get-started/get-started-with-the-linkit-smart-7688-development-board/connect-to-the-internet)
 
-Finally [login alexa](https://github.com/RAKWireless/wiscore/wiki/Setup-Wireless) and enjoy it
+Finally [login alexa via app](https://github.com/RAKWireless/wiscore/wiki/Login-Alexa-Through-App) and enjoy it
