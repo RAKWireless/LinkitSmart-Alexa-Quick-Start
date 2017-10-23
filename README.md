@@ -43,13 +43,13 @@ you should do as these, and then recompile
 
 Delete:
 
-	linkitSDK/package/libs/alsa-lib 
+	package/libs/alsa-lib 
 
-	linkitSDK/feeds/packages/libs/libao
+	feeds/packages/libs/libao
 	
-	linkitSDK/package/network/utils/curl
+	package/network/utils/curl
 	
-	linkitSDK/package/network/utils/nghttp2
+	package/network/utils/nghttp2
 
 Download opwrt-topdir, and then 
 
