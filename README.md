@@ -55,12 +55,18 @@ Download opwrt-topdir, and then
 
 	copy opwrt-topdir/* linkitSDK/
 
-5. Install alexa feeds
+5. Install alexa feeds as linkitsmart7688
 
 	$ echo src-git rakalexa https://github.com/RAKWireless/Alexa-linkitsmart-feeds.git >> feeds.conf
 
+then 
+
+	./scripts/feeds update
+	./scripts/feeds install -a
+
 ### Compile the SDK
 In the top directory of linkitSDK
+
 if you have compiled the SDK, before change these
 
 	make clean
