@@ -60,7 +60,13 @@ Download opwrt-topdir, and then
 	$ echo src-git rakalexa https://github.com/RAKWireless/Alexa-linkitsmart-feeds.git >> feeds.conf
 
 ### Compile the SDK
-In the top directory of linkitSDK execute
+In the top directory of linkitSDK
+if you have compiled the SDK, before change these
+
+	make clean
+	make V=s
+
+if not 
 
 	make V=s
 
