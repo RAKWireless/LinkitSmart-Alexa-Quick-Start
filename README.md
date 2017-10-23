@@ -57,7 +57,7 @@ Download opwrt-topdir, and then
 
 5. Install alexa feeds as linkitsmart7688
 
-	$ echo src-git rakalexa https://github.com/RAKWireless/Alexa-linkitsmart-feeds.git >> feeds.conf
+		$ echo src-git rakalexa https://github.com/RAKWireless/Alexa-linkitsmart-feeds.git >> feeds.conf
 
 then 
 
