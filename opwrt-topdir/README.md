@@ -1,6 +1,6 @@
 # Build linkitsdk environment
 
-**Alexa depends some libs and utils, you need change them**
+**Alexa depends some libs and utils, you need change them, You can copy all these files to linkitSDK, or modify these files by yourself as follows**
 
 1. Use the libs of rak-alexa
 
@@ -35,4 +35,4 @@
 
 	target/linux/ramips/patches-3.18/400-mt7688-soc-ralink.patch
 
-You can copy these to linkitSDK, Or modify those files by yourself
+
