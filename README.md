@@ -86,4 +86,18 @@ After enter the system, set dsn-num then excute msload_go.sh to run the progress
 
 Then [connect to internet](https://docs.labs.mediatek.com/resource/linkit-smart-7688/en/get-started/get-started-with-the-linkit-smart-7688-development-board/connect-to-the-internet)
 
-Finally <a href="https://github.com/RAKWireless/wiscore/wiki/Login-Alexa-Through-App/#sign-alexa">login alexa via app</a> and enjoy it
+Finally sign in alexa via app and enjoy it
+
+Here you can log in Alexa,click “Amazon Alexa” 
+   
+   then input your amazon account and password, when you first login
+
+![](https://github.com/RAKWireless/wiscore/raw/master/img/app/wiscore_app17.png)
+
+   if you have signed in last time ,it’s will remember you account ,you should click “Continue” to log in.
+
+![](https://github.com/RAKWireless/wiscore/raw/master/img/app/wiscore_app21.png)
+
+   “Sign in” and then wait a few seconds, you will log in Alexa. Finally you can communicate with Alexa as follows
+
+![](https://github.com/RAKWireless/wiscore/raw/master/img/app/wiscore_app22.png)
