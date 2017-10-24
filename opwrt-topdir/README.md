@@ -35,4 +35,4 @@
 
 	target/linux/ramips/patches-3.18/400-mt7688-soc-ralink.patch
 
-You can copy these to linkitSDK, Or modify those files by your self
+You can copy these to linkitSDK, Or modify those files by yourself
