@@ -66,7 +66,10 @@ then
 	./scripts/feeds install -a
 
 ### Compile the SDK
+
 In the top directory of linkitSDK
+
+**Note: Before compile you need to fill in the "User ID" and "license" provided by Rakwireless in feeds/rakalexa/rak-alexa-apps/src/alexa_demo/src/plugin_alexa.h (line 28,29)**
 
 After modified as described above and then:
 
@@ -79,8 +82,9 @@ Burn firmware from [mtk-linkit](https://docs.labs.mediatek.com/resource/linkit-s
 
 ### Run Alexa Progress
 
-**Note: before use alexa, you need set dsn-number in /etc/wiskeyinfo, such as "serial_num #=Rak.Alexa.000000", and the dsn-number must be different in each board**
-
+**Note: 
+**      before use alexa, you need set dsn-number in /etc/wiskeyinfo, such as "serial_num #=Rak.Alexa.000000", and the dsn-number must be different in each board
+** 		
 1. After enter the system, set dsn-num then excute msload_go.sh to run the progress
 
 2. Then [connect to internet](https://docs.labs.mediatek.com/resource/linkit-smart-7688/en/get-started/get-started-with-the-linkit-smart-7688-development-board/connect-to-the-internet)
