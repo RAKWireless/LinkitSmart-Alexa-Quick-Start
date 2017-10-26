@@ -51,7 +51,7 @@ Delete:
 	
 	package/network/utils/nghttp2
 
-Download opwrt-topdir, and then copy opwrt-topdir/* linkitSDK/ ,more details refer to [opwrt-topdir](https://github.com/RAKWireless/linkit-alexa-quick-start/tree/master/opwrt-topdir)
+Download opwrt-topdir, and then copy opwrt-topdir/all linkitSDK/ ,more details refer to [opwrt-topdir](https://github.com/RAKWireless/linkit-alexa-quick-start/tree/master/opwrt-topdir)
 
 5. Install alexa feeds as linkitsmart7688
 
@@ -65,12 +65,12 @@ then
 ### Compile the SDK
 In the top directory of linkitSDK
 
-if you have compiled the SDK, before change these
+if you have compiled the SDK before change these
 
 	make clean
 	make V=s
 
-if not 
+if not, just compile directly
 
 	make V=s
 
