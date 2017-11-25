@@ -69,7 +69,7 @@ then
 
 In the top directory of linkitSDK
 
-**Note: Before compile you need to fill in the "User ID" and "license" provided by Rakwireless in feeds/rakalexa/rak-alexa-apps/src/alexa_demo/src/plugin_alexa.h (line 28,29)**
+**Note: Before compile you need to fill in the "license" provided by Rakwireless in feeds/rakalexa/rak-alexa-apps/src/alexa_demo/src/plugin_alexa.h (line 29)**
 
 After modified as described above and then:
 
