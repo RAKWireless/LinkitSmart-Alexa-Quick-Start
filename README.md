@@ -13,7 +13,9 @@
 ### Schematic
 
 **Note:**
+
    **I2S_SDI and I2S_SDO print backwards in the audio board**
+
    **To ensure that the voltage of the audio board is stability in more than 3V, or there may be noise**
 
 ![](https://github.com/RAKWireless/linkit-alexa-quick-start/raw/master/img/linkit-alexa/connect-pin.png)
