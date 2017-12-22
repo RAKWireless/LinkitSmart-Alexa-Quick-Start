@@ -1,15 +1,15 @@
 # LinkitSmart-Alexa Quick Start
 
-## Overwie
+## Overview
 
-![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/img/overwie.jpg)
+![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/img/overview.jpg)
 
 This project is based on MediaTek linkitsmart official SDK, and compatible Amazon Alexa.
 
 * Introduction
 	* [Hardware](Introduction.md)
 
-## SoftWare
+## Quick Start
 
 ### Prepare for SDK
 

@@ -1,4 +1,7 @@
 # Introduction
+
+Here to show you the simple hardware and how to how to connect audio board to linkitsamrt
+
 ## HardWare
 
 ### Connet linkit and audio board
@@ -9,7 +12,7 @@
 
 ![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/img/linkit-alexa/interface.png)
 
-### Schematic
+## Schematic
 
 **Note:**
 
@@ -23,4 +26,5 @@
 
 
 Here to get [AudioBoard](https://www.aliexpress.com/store/product/WisCore-Open-Source-Hardware-Module-built-in-Amazon-Alexa-Voice-Service-function-Compatible-with-Raspberry-Pi/2805180_32811396241.html?spm=2114.12010608.0.0.3tOvIP)<br>
+Here to get[LinkitSmart7688](https://www.seeedstudio.com/LinkIt-Smart-7688-p-2573.html)
 
