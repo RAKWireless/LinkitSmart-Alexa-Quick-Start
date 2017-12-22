@@ -40,7 +40,7 @@ Delete:
 	
 	package/network/utils/nghttp2
 
-Download opwrt-topdir, and then copy opwrt-topdir/all linkitSDK/ ,more details refer to [opwrt-topdir]https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/tree/master/opwrt-topdir)
+Download opwrt-topdir, and then copy opwrt-topdir/all linkitSDK/
 
 5. Install alexa feeds as linkitsmart7688
 
