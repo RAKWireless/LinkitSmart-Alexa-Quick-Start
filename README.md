@@ -2,7 +2,7 @@
 
 ## Overwie
 
-![](https://github.com/RAKWireless/linkit-alexa-quick-start/raw/master/img/overwie.png)
+![](https://github.com/RAKWireless/linkit-alexa-quick-start/raw/master/img/overwie.jpg)
 
 This project is based on MediaTek linkitsmart official SDK, and compatible Amazon Alexa.
 
