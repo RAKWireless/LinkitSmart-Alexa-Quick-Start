@@ -2,7 +2,7 @@
 
 ## Overwie
 
-![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/raw/master/img/overwie.jpg)
+![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/img/overwie.jpg)
 
 This project is based on MediaTek linkitsmart official SDK, and compatible Amazon Alexa.
 
@@ -16,7 +16,7 @@ This project is based on MediaTek linkitsmart official SDK, and compatible Amazo
 #### Step 1: Get [linkitsmart7688-SDK](https://github.com/MediaTek-Labs/linkit-smart-7688-feed) from mtk and build it
 
 Note: when compile 7688 sdk, if it failed just as:
-![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/raw/master/img/linkit-alexa/mtk-compile-wrong.png)
+![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/img/linkit-alexa/mtk-compile-wrong.png)
 
 you should do as these, and then recompile
 
@@ -78,12 +78,12 @@ Here you can log in Alexa,click “Amazon Alexa”
    
    then input your amazon account and password, when you first login
 
-![](https://github.com/RAKWireless/wiscore/raw/master/img/app/wiscore_app17.png)
+![](https://github.com/RAKWireless/wiscore/blob/master/img/app/wiscore_app17.png)
 
    if you have signed in last time ,it’s will remember you account ,you should click “Continue” to log in.
 
-![](https://github.com/RAKWireless/wiscore/raw/master/img/app/wiscore_app21.png)
+![](https://github.com/RAKWireless/wiscore/blob/master/img/app/wiscore_app21.png)
 
    “Sign in” and then wait a few seconds, you will log in Alexa. Finally you can communicate with Alexa as follows
 
-![](https://github.com/RAKWireless/wiscore/raw/master/img/app/wiscore_app22.png)
+![](https://github.com/RAKWireless/wiscore/blob/master/img/app/wiscore_app22.png)
