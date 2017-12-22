@@ -1,30 +1,13 @@
-# Linkit-alexa-quick-start
+# LinkitSmart-Alexa Quick Start
 
-## HardWare
+## Overwie
 
-### Connet linkit and audio board
+![](https://github.com/RAKWireless/linkit-alexa-quick-start/raw/master/img/overwie.png)
 
-![](https://github.com/RAKWireless/linkit-alexa-quick-start/raw/master/img/linkit-alexa/linkit-audio-connect.png)
+This project is based on MediaTek linkitsmart official SDK, and compatible Amazon Alexa.
 
-### Interface
-
-![](https://github.com/RAKWireless/linkit-alexa-quick-start/raw/master/img/linkit-alexa/interface.png)
-
-### Schematic
-
-**Note:**
-
-   **I2S_SDI and I2S_SDO print backwards in the audio board**
-   
-   **The audio board print error, the GND is 5V**
-
-![](https://github.com/RAKWireless/linkit-alexa-quick-start/raw/master/img/linkit-alexa/print-err.jpg)
-
-![](https://github.com/RAKWireless/linkit-alexa-quick-start/raw/master/img/linkit-alexa/connect-pin.png)
-
-
-Here to get [AudioBoard](https://www.aliexpress.com/store/product/WisCore-Open-Source-Hardware-Module-built-in-Amazon-Alexa-Voice-Service-function-Compatible-with-Raspberry-Pi/2805180_32811396241.html?spm=2114.12010608.0.0.3tOvIP)<br>
-
+* Introduction
+	* [Hardware](Introduction.md)
 
 ## SoftWare
 
@@ -61,7 +44,7 @@ Download opwrt-topdir, and then copy opwrt-topdir/all linkitSDK/ ,more details r
 
 5. Install alexa feeds as linkitsmart7688
 
-		$ echo src-git rakalexa https://github.com/RAKWireless/Alexa-linkitsmart-feeds.git >> feeds.conf
+		$ echo src-git rakalexa https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start.git >> feeds.conf
 
 then 
 
@@ -72,7 +55,6 @@ then
 
 In the top directory of linkitSDK
 
-**Note: Before compile you need to fill in the "license" provided by Rakwireless in feeds/rakalexa/rak-alexa-apps/src/alexa_demo/src/plugin_alexa.h (line 29)**
 
 After modified as described above and then:
 
