@@ -2,7 +2,7 @@
 
 ## Overwie
 
-![](https://github.com/RAKWireless/linkit-alexa-quick-start/raw/master/img/overwie.jpg)
+![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/raw/master/img/overwie.jpg)
 
 This project is based on MediaTek linkitsmart official SDK, and compatible Amazon Alexa.
 
@@ -16,7 +16,7 @@ This project is based on MediaTek linkitsmart official SDK, and compatible Amazo
 #### Step 1: Get [linkitsmart7688-SDK](https://github.com/MediaTek-Labs/linkit-smart-7688-feed) from mtk and build it
 
 Note: when compile 7688 sdk, if it failed just as:
-![](https://github.com/RAKWireless/linkit-alexa-quick-start/raw/master/img/linkit-alexa/mtk-compile-wrong.png)
+![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/raw/master/img/linkit-alexa/mtk-compile-wrong.png)
 
 you should do as these, and then recompile
 
@@ -40,7 +40,7 @@ Delete:
 	
 	package/network/utils/nghttp2
 
-Download opwrt-topdir, and then copy opwrt-topdir/all linkitSDK/ ,more details refer to [opwrt-topdir](https://github.com/RAKWireless/linkit-alexa-quick-start/tree/master/opwrt-topdir)
+Download opwrt-topdir, and then copy opwrt-topdir/all linkitSDK/ ,more details refer to [opwrt-topdir]https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/tree/master/opwrt-topdir)
 
 5. Install alexa feeds as linkitsmart7688
 
