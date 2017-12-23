@@ -17,7 +17,7 @@
 
 	target/linux/ramips/dts/LINKIT7688.dts
 
-![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/img/linit-alexa/linkit-alexa-dts.png)
+![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/img/linkit-alexa/linkit-alexa-dts.png)
 
 3. Change kernel config
 
