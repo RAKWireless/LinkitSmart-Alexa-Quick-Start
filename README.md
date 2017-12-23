@@ -6,9 +6,9 @@
 
 This project is based on MediaTek linkitsmart official SDK, and compatible Amazon Alexa.
 
-* Introduction
-	* [HardWare](Introduction.md#hardware)
-	* <a href="Introduction.md#software">SoftWare</a>
+* [Introduction](Introduction.md)
+	* HardWare
+	* SoftWare
 
 ## Quick Start
 
