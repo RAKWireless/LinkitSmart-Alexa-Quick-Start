@@ -2,10 +2,6 @@
 
 Here to show you the simple hardware and how to how to connect audio board to linkitsamrt
 
-### Connet linkit and audio board
-
-![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/img/linkit-alexa/linkit-audio-connect.png)
-
 ### Interface
 
 ![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/img/linkit-alexa/interface.png)
