@@ -42,6 +42,7 @@ Delete:
 	package/network/utils/nghttp2
 
 Then build environment, copy opwrt-topdir/associative-dir to linkitsmart-SDK topdir
+
 Copy next dir to your SDK:
 	
 	opwrt-topdir/feeds
