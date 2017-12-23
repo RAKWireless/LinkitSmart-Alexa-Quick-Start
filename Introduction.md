@@ -1,4 +1,5 @@
 # HardWare
+<div id="hardware"></div>
 
 Here to show you the simple hardware and how to how to connect audio board to linkitsamrt
 
@@ -27,6 +28,7 @@ Here to get [AudioBoard](https://www.aliexpress.com/store/product/WisCore-Open-S
 Here to get[LinkitSmart7688](https://www.seeedstudio.com/LinkIt-Smart-7688-p-2573.html)
 
 # SoftWare
+<div id="software"></div>
 
 The project is based on MediaTek linkitsmart official SDK, and compatible Amazon Alexa, The platform is the MT7688AN SoC, providing 802.11n 1T1R Wi-Fi connectivity.
 The LinkIt Smart 7688 development platform runs OpenWrt Linux and is loaded with a range of packages to enable the development of IoT device software. This includes 
