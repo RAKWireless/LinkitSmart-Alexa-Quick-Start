@@ -8,7 +8,7 @@ This project is based on MediaTek linkitsmart official SDK, and compatible Amazo
 
 * Introduction
 	* [HardWare](Introduction.md#hardware)
-	* <a href="https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/Introduction.md#software">SoftWare</a>
+	* <a href="Introduction.md#software">SoftWare</a>
 
 ## Quick Start
 
