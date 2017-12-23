@@ -41,7 +41,7 @@ Delete:
 	
 	package/network/utils/nghttp2
 
-Download opwrt-topdir, and then copy opwrt-topdir/all linkitSDK/
+And then copy opwrt-topdir/all-files to linkitSDK/
 
 5. Install alexa feeds as linkitsmart7688
 
