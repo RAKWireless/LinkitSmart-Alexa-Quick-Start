@@ -29,11 +29,11 @@ you should do as these, and then recompile
 
 **Alexa depends some libs and utils, you need change them**
 
-1. If your linkitsdk has these files, you need delete these files and replace them with opwrt-topdir
+1. If your linkitsmartSDK has these files, you need delete these files and replace them with opwrt-topdir/associative-dir
 
 Delete:
 
-	package/libs/alsa-lib 
+	package/libs/alsa-lib
 
 	feeds/packages/libs/libao
 	
@@ -41,9 +41,12 @@ Delete:
 	
 	package/network/utils/nghttp2
 
-Then build environment:
+Then build environment, copy opwrt-topdir/associative-dir to linkitsmart-SDK topdir
+Copy next dir to your SDK:
 	
-	copy opwrt-topdir/all-directories to linkitsmart-SDK topdir
+	opwrt-topdir/feeds
+	opwrt-topdir/package
+	opwrt-topdir/target
 
 5. Install alexa feeds as linkitsmart7688
 
