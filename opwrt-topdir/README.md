@@ -17,7 +17,7 @@
 
 	target/linux/ramips/dts/LINKIT7688.dts
 
-![](https://github.com/RAKWireless/wiscore/raw/master/img/linit-alexa/linkit-alexa-dts.png)
+![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/img/linit-alexa/linkit-alexa-dts.png)
 
 3. Change kernel config
 
@@ -25,11 +25,11 @@
 
 	disable pwm, because trigger alexa and pwm is the same pin
 
-![](https://github.com/RAKWireless/wiscore/raw/master/img/linkit-alexa/kernel-config-pwm.png)
+![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/img/linkit-alexa/kernel-config-pwm.png)
 
 	enable lzo
 
-![](https://github.com/RAKWireless/wiscore/raw/master/img/linkit-alexa/kernel-config-lzo.png)
+![](https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start/blob/master/img/linkit-alexa/kernel-config-lzo.png)
 
 4. Add patches
 
