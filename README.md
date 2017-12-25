@@ -29,7 +29,16 @@ you should do as these, and then recompile
 
 **Alexa depends some libs and utils, you need change them**
 
-1. If your linkitsmartSDK has these files, you need delete these files and replace them with opwrt-topdir/associative-dir
+1. Install alexa feeds as linkitsmart7688
+
+		$ echo src-git rakalexa https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start.git >> feeds.conf
+
+then 
+
+	./scripts/feeds update
+	./scripts/feeds install -a
+
+2. If your linkitsmartSDK has these files, you need delete these files and replace them with opwrt-topdir/associative-dir
 
 Delete:
 
@@ -46,15 +55,6 @@ Then build environment, copy opwrt-topdir/associative-dir to linkitsmart-SDK top
 	feeds/rakalexa/opwrt-topdir/feeds
 	feeds/rakalexa/opwrt-topdir/package
 	feeds/rakalexa/opwrt-topdir/target
-
-5. Install alexa feeds as linkitsmart7688
-
-		$ echo src-git rakalexa https://github.com/RAKWireless/LinkitSmart-Alexa-Quick-Start.git >> feeds.conf
-
-then 
-
-	./scripts/feeds update
-	./scripts/feeds install -a
 
 ### Compile the SDK
 
