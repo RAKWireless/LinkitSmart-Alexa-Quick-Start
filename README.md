@@ -41,13 +41,11 @@ Delete:
 	
 	package/network/utils/nghttp2
 
-Then build environment, copy opwrt-topdir/associative-dir to linkitsmart-SDK topdir
-
-Copy next dir to your SDK:
+Then build environment, copy opwrt-topdir/associative-dir to linkitsmart-SDK topdir:
 	
-	opwrt-topdir/feeds
-	opwrt-topdir/package
-	opwrt-topdir/target
+	feeds/rakalexa/opwrt-topdir/feeds
+	feeds/rakalexa/opwrt-topdir/package
+	feeds/rakalexa/opwrt-topdir/target
 
 5. Install alexa feeds as linkitsmart7688
 
